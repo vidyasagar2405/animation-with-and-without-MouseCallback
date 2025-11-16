@@ -43,3 +43,7 @@ A kinematic chain that follows the mouse pointer smoothly.
 - Real-time mouse tracking using:
   ```python
   cv2.EVENT_MOUSEMOVE
+
+
+## **Demo Video**
+[demo video](https://youtu.be/jrNEF7GAPZQ)
