@@ -44,4 +44,4 @@ A kinematic chain that follows the mouse pointer smoothly.
 
 
 ## **Demo Video**
-[demo video](https://youtu.be/jrNEF7GAPZQ)
+## [Video](https://youtu.be/jrNEF7GAPZQ)
