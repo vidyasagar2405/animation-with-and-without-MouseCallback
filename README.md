@@ -1,6 +1,4 @@
-# OpenCV-Animation-Project-with-and-without-MouseCallback
-
-# OpenCV Animations — Particle Orbit & Mouse-Tracking Reptile
+# Particle Orbit & Mouse-Tracking Reptile Animations using OpenCV
 
 This repository contains two real-time animation demos built using **Python + OpenCV**.  
 The goal was to explore interactive rendering, motion physics, particle systems, and kinematic chains using only OpenCV's drawing APIs.
